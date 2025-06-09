@@ -1,6 +1,7 @@
-| | Entité | Description |
-|:----------:|:---------:|:----------:|
-| texte 1   | texte 2   | texte 3   |
-| autre 1   | autre 2   | autre 3   |
+| Entité | Description |
+|:----------:|:---------:|
+| Lead | texte 2   |
+| Opportunité | autre 2   |
+| Tiers | autre 2   |
 
 ![Milestones CVE](../files/CVE_Milestones.png)
