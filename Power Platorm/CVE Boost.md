@@ -1,5 +1,5 @@
 | Entité | Description |
-|:----------:|:---------:|
+|:----------:|:---------|
 | Lead | - Création du lead Suite à l’identification d’un foncier par le CP <br> - Date GO/NOGO
 Est-ce qu'on transforme du lead en opportunité ou pas ?
 Qualification d'un lead dont on n'est pas le propriétaire
