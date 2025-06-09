@@ -1,1 +1,1 @@
-![Voir les milestones](../files/CVE_Milestones.png)
+![Milestones CVE](../files/CVE_Milestones.png)
