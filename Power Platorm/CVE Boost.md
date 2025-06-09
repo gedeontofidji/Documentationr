@@ -1,8 +1,7 @@
 | Entité | Description |
 |:----------:|:---------|
 | Lead | - Création du lead suite à l’identification d’un foncier par le CP <br> - Date GO/NOGO => Est-ce qu'on transforme du lead en opportunité ou pas ? |
-| Opportunité | autre 2 |
-| Tiers | autre 2 |
+| Tiers | Privé (entreprise) ou public (collectivité) |
 
 Qualification d'un lead dont on n'est pas le propriétaire
 1. Remplacer le propriétaire actuel par soi
