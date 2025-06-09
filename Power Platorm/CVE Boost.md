@@ -1,1 +1,1 @@
-[Voir le PDF](../files/CVE_Milestones.png)
+[CVE Milestones](../files/CVE_Milestones.png)
