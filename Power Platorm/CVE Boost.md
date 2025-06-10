@@ -1,7 +1,7 @@
 ## 📚 Table des matières
 
-- [Formation](#formation)
-- [LDF](#ldf)
+1. [Formation](#formation)
+2. [LDF](#ldf)
 
 ### Formation
 - Supports de formation sur BIBLOS
