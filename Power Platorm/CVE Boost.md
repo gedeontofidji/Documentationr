@@ -1,3 +1,4 @@
+# Formation
 - Supports de formation sur BIBLOS
 - Paramétrage des signatures électroniques
 - Application téléphone : https://apps.apple.com/fr/app/dynamics-365-for-phones/id1003997947 (Dynamic 365 Sales)
@@ -9,3 +10,6 @@
 | Tiers | Privé (entreprise) ou public (collectivité) |
 
 ![Milestones CVE](../files/CVE_Milestones.png)
+
+# LDF
+- Création des informations fiscales du contact lors de la création de la souscription
