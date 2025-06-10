@@ -2,12 +2,12 @@
 
 1. [Formation](#formation)
 2. [LDF](#ldf)
-<br><br><br>
+<br><br>
+
 ### Formation
 - Supports de formation sur BIBLOS
 - Paramétrage des signatures électroniques
 - Application téléphone : https://apps.apple.com/fr/app/dynamics-365-for-phones/id1003997947 (Dynamic 365 Sales)
-
 
 | Entité | Description |
 |:----------:|:---------|
@@ -15,6 +15,7 @@
 | Tiers | Privé (entreprise) ou public (collectivité) |
 
 ![Milestones CVE](../files/CVE_Milestones.png)
+<br><br>
 
 ### LDF
 - Création des informations fiscales du contact lors de la création de la souscription
