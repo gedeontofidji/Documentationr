@@ -1,4 +1,9 @@
-# Formation
+## 📚 Table des matières
+
+- [Formation](#formation)
+- [LDF](#ldf)
+
+- ## Formation
 - Supports de formation sur BIBLOS
 - Paramétrage des signatures électroniques
 - Application téléphone : https://apps.apple.com/fr/app/dynamics-365-for-phones/id1003997947 (Dynamic 365 Sales)
@@ -11,5 +16,5 @@
 
 ![Milestones CVE](../files/CVE_Milestones.png)
 
-# LDF
+## LDF
 - Création des informations fiscales du contact lors de la création de la souscription
