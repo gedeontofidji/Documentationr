@@ -2,10 +2,7 @@
 
 1. [Formation](#formation)
 2. [LDF](#ldf)
-
-
-
-
+<br><br><br>
 ### Formation
 - Supports de formation sur BIBLOS
 - Paramétrage des signatures électroniques
