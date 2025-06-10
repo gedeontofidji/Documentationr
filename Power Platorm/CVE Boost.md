@@ -1,3 +1,8 @@
+• Outil de prospection
+• BIBLOS --> supports de formation
+• Paramétrage des signatures électroniques
+Application téléphone : https://apps.apple.com/fr/app/dynamics-365-for-phones/id1003997947 (Dynamic 365 Sales)![image](https://github.com/user-attachments/assets/66a670bb-46af-4cc0-a4f2-abbf75fb5ef1)
+
 | Entité | Description |
 |:----------:|:---------|
 | Lead | - Création du lead suite à l’identification d’un foncier par le CP <br> - Date GO/NOGO => Est-ce qu'on transforme du lead en opportunité ou pas ? |
