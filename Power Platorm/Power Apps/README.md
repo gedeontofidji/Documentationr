@@ -1,1 +1,1 @@
-d
+- Plug-in outlook : Pour connecter une table à outlook : rajouter la table dans l'application "Dynamics 365 App for Outlook
