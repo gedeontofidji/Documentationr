@@ -5,6 +5,7 @@
 3. [Easy Translator](#easy-translator)
 4. [Early Bound Generator](#early-bound-generator)
 5. [Plugin Registration](#plugin-registration)
+6. [FetchXML Builder](#fetchxml-builder)
 <br><br>
 
 ### Webresources Manager
@@ -34,3 +35,7 @@
 - Pre-Image / post-image : capture des données d'une table avant/après enregistrement
 <br><br>
 
+### FetchXML Builder
+- Permet de générer une nouvelle table ou champ
+- La génération prend tous les champs d'une entité
+<br><br>
