@@ -33,4 +33,5 @@
 - Pre-Image / post-image : capture des données d'une table avant/après enregistrement
 <br><br>
 ![Statut](https://img.shields.io/badge/Statut-Actif-brightgreen)
+![Version](https://img.shields.io/badge/version-1.0-blue)
 
