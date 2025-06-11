@@ -32,7 +32,11 @@
 - Synchrone : bloque l'utilisateur avant l'enregistrement / Asynchrone : ne bloque pas l'utilisateur avant l'enregistrement et se lance après l'enregistrement après l'exécution.
 - Pre-Image / post-image : capture des données d'une table avant/après enregistrement
 <br><br>
-![Statut](https://img.shields.io/badge/Synchrone-Bloque_l'utilisateur_avant_l'enregistrement-brightgreen)
-![Statut](https://img.shields.io/badge/Statut-Actif-brightgreen)
-![Version](https://img.shields.io/badge/version-1.0-blue)
+![Statut](https://img.shields.io/badge/Synchrone-Bloque_l'utilisateur_avant_l'enregistrement-brightgreen) <br>
+![Statut](https://img.shields.io/badge/Statut-Actif-green)<br>
+![Statut](https://img.shields.io/badge/Statut-Actif-yellow)<br>
+![Statut](https://img.shields.io/badge/Statut-Actif-orange)<br>
+![Statut](https://img.shields.io/badge/Statut-Actif-red)<br>
+![Statut](https://img.shields.io/badge/Statut-Actif-blue)<br>
+![Statut](https://img.shields.io/badge/Statut-Actif-lightgreen)<br>
 
