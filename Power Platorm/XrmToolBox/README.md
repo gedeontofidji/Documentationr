@@ -29,8 +29,8 @@
 
 ### Plugin Registration
 - Permet de voir/éditer le code côté serveur
-- Synchrone : bloque l'utilisateur avant l'enregistrement / Asynchrone : ne bloque pas l'utilisateur avant l'enregistrement et se lance après l'enregistrement après l'exécution.
+- ![Synchrone](https://img.shields.io/badge/Synchrone-Bloque_l'utilisateur_avant_l'enregistrement-brightgreen) <br>
+- ![Asynchrone](https://img.shields.io/badge/Asynchrone-Ne_bloque_pas_l'utilisateur_avant_l'enregistrement_et_se_lance_après_l'enregistrement_après_l'exécution-brightgreen) <br>
 - Pre-Image / post-image : capture des données d'une table avant/après enregistrement
 <br><br>
-![Synchrone](https://img.shields.io/badge/Synchrone-Bloque_l'utilisateur_avant_l'enregistrement-brightgreen) <br>
-![Asynchrone](https://img.shields.io/badge/Asynchrone-Ne_bloque_pas_l'utilisateur_avant_l'enregistrement_et_se_lance_après_l'enregistrement_après_l'exécution-brightgreen) <br>
+
