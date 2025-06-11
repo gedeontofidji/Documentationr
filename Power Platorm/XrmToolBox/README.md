@@ -3,6 +3,7 @@
 1. [Webresources Manager](#webresources-manager)
 2. [Plugin Trace Viewer](#plugin-trace-viewer)
 3. [Easy Translator](#easy-translator)
+4. [Early Bound Generator](#early-bound-generator)
 <br><br>
 
 ### Webresources Manager
@@ -18,3 +19,9 @@
 - Permet de gérer les traductions via export/import au format xml
 - Code langues : Français (1036) / Anglais (1033) / Espagnol (3082)
 - Importer seulement ce qui a été modifié pour éviter un timeout
+<br><br>
+
+### Early Bound Generator
+- Permet de générer une nouvelle table ou champ
+- La génération prend tous les champs d'une entité
+<br><br>
