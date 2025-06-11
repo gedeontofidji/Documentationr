@@ -28,8 +28,8 @@
 <br><br>
 
 ### Plugin Registration
-- Permet de voir l'ensemble des codes serveurs et de les mettre à jour
-- Synchrone : bloque l'utilisateur avant l'enregistrement
-- Asynchrone : ne bloque pas l'utilisateur avant l'enregistrement et se lance après l'enregistrement après l'exécution
+- Permet de voir/éditer l'ensemble des codes serveurs
+  
+- Synchrone : bloque l'utilisateur avant l'enregistrement / Asynchrone : ne bloque pas l'utilisateur avant l'enregistrement et se lance après l'enregistrement après l'exécution.
 - Pre-Image / post-image : capture des données d'une table avant/après enregistrement
 <br><br>
