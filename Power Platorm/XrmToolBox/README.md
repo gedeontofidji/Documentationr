@@ -4,6 +4,7 @@
 2. [Plugin Trace Viewer](#plugin-trace-viewer)
 3. [Easy Translator](#easy-translator)
 4. [Early Bound Generator](#early-bound-generator)
+5. [Plugin Registration](#plugin-registration)
 <br><br>
 
 ### Webresources Manager
@@ -24,4 +25,11 @@
 ### Early Bound Generator
 - Permet de générer une nouvelle table ou champ
 - La génération prend tous les champs d'une entité
+<br><br>
+
+### Plugin Registration
+- Permet de voir l'ensemble des codes serveurs et de les mettre à jour
+- Synchrone : bloque l'utilisateur avant l'enregistrement
+- Asynchrone : ne bloque pas l'utilisateur avant l'enregistrement et se lance après l'enregistrement après l'exécution
+- Pre-Image / post-image : capture des données d'une table avant/après enregistrement
 <br><br>
