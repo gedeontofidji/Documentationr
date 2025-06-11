@@ -36,6 +36,6 @@
 <br><br>
 
 ### FetchXML Builder
-- Permet de générer une nouvelle table ou champ
-- La génération prend tous les champs d'une entité
+- Permet de requêter les données selon un format (Utile pour Power Automate)
+- Côté serveur
 <br><br>
