@@ -17,3 +17,4 @@
 ### Easy Translator
 - Permet de gérer les traductions via export/import au format xml
 - Code langues : Français (1036) / Anglais (1033) / Espagnol (3082)
+- Importer seulement ce qui a été modifié pour éviter un timeout
