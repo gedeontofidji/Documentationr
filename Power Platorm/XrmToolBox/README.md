@@ -37,6 +37,6 @@
 
 ### FetchXML Builder
 - Permet de requêter les données selon un format (Utile pour Power Automate)
-- Côté serveur <img src="../../files/Xrm_FetchXmlBuilder.png" alt="Xrm_FetchXmlBuilder" width="600"/>
+- Côté serveur <img src="../../files/Xrm_FetchXmlBuilder.png" alt="Xrm_FetchXmlBuilder" width="100"/>
 
 <br><br>
