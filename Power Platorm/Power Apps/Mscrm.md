@@ -6,5 +6,5 @@ https://www.mscrm-addons.com/
 - Passer par la recherche avancée si besoin de modifier le fetch
 - Faire les modifications en recette puis exporter en production
 <br>
-<img src="../../files/PowerApps_Mscrm.png" alt="PowerApps_Mscrm" style="width:30%"/>
+<img src="../../files/PowerApps_Mscrm.png" alt="PowerApps_Mscrm" style="width:100%"/>
 <br><br>
