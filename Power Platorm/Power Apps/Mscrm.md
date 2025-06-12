@@ -5,4 +5,6 @@ https://www.mscrm-addons.com/
 - Modifier la licence dans le paramétrage de l'environnement afin de pouvoir paramétrer un template
 - Passer par la recherche avancée si besoin de modifier le fetch
 - Faire les modifications en recette puis exporter en production
-
+<br>
+<img src="../../files/PowerApps_Mscrm.png" alt="PowerApps_Mscrm" style="width:30%"/>
+<br><br>
