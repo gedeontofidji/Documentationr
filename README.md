@@ -4,3 +4,4 @@
 
 # A faire
 - Voir comment relier compte au plugin outlook + procédure
+- Code exemple de formule powerfx (espagne)
