@@ -1,4 +1,4 @@
-### 🔗 Lien utile
+### 🔗 Useful links
 - [Paramétrage](https://microsoft-search.github.io/pnp-modern-search/usage/search-results/layouts/)  <br><br>
 
 ### 💡 Tips
