@@ -18,4 +18,5 @@
 <br><br>
 
 #### <ins> Useful links </ins>
-- [Admin Center](https://go.microsoft.com/fwlink/?linkid=2185220)
+- [Admin Center](https://go.microsoft.com/fwlink/?linkid=2185220)  
+- [View formatting](https://learn.microsoft.com/en-us/sharepoint/dev/declarative-customization/view-formatting)
