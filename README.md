@@ -1,5 +1,9 @@
-### To read
-
+### To watch/read
+- https://build.microsoft.com/en-US/sessions/BRK128?source=sessions
+- https://build.microsoft.com/en-US/sessions/BRK126?source=sessions
+- https://build.microsoft.com/en-US/sessions/BRK125?source=sessions
+- https://build.microsoft.com/en-US/sessions/BRK130?source=sessions
+- https://build.microsoft.com/en-US/sessions/BRK132?source=sessions
 
 ### To do
 - Voir comment relier compte au plugin outlook + procédure
