@@ -4,5 +4,5 @@
 - [Groups I own](https://myaccount.microsoft.com/groups/groups-i-own) <br>
 
 #### To try
-- [Bookings agenda](https://outlook.office.com/bookings/homepage)
+- [Booking agenda](https://outlook.office.com/bookings/homepage)
 - [Project management](https://project.microsoft.com/cvegroup.com/fr-FR)
