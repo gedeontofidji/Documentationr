@@ -1,19 +1,17 @@
 ### 📚 Index
-1. [Pnp Modern Search](#-pnp-modern-search-)
-2. [Content Type](#-content-type-)
-3. [Useful links](#-useful-links-)
+1. [Plan Desginer](#-plan-designer-)
+2. [Useful links](#-useful-links-)
 <br><br>
 
-#### <ins> Pnp Modern Search </ins>
-💡Tips
-- If a managed property is mapped to multiple crawled properties with identical values, only one value will appear in the filters.  
+#### <ins> Plan Designer </ins>
+📖 Description  
+Plan designer helps to create a plan for your existing solution or a new one using copilot. It generates a detailed document that describes your solution. The plan covers the business problem, user requirements like user roles and stories, the data model, and technologies like apps. This feature saves time when you're trying to understand a solution's content and helps makers improve an existing solution.
 
 🔗 Documentation
-- [Pnp Modern Search](https://microsoft-search.github.io/pnp-modern-search/usage/search-results/layouts/)
+- [Overview of Plan Designer](https://learn.microsoft.com/en-us/power-apps/maker/plan-designer/plan-designer)
 <br><br>
 
-
-#### Useful links
+#### <ins> Useful links </ins>
 - [Restricted tables requiring Dynamics 365 licenses](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-restricted-entities)  
 
 Plug-in outlook : Pour connecter une table à outlook : rajouter la table dans l'application "Dynamics 365 App for Outlook
