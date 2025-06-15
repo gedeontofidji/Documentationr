@@ -12,6 +12,7 @@ Plan designer helps to create a plan for your existing solution or a new one usi
 <br><br>
 
 #### <ins> Useful links </ins>
-- [Restricted tables requiring Dynamics 365 licenses](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-restricted-entities)  
+- [Restricted tables requiring Dynamics 365 licenses](https://learn.microsoft.com/en-us/power-apps/maker/data-platform/data-platform-restricted-entities)
+- [Virtual tables and lookup columns](https://mattruma.com/adventures-with-dataverse-virtual-tables-and-look-up-columns/?utm_source=substack&utm_medium=email)  
 
 Plug-in outlook : Pour connecter une table à outlook : rajouter la table dans l'application "Dynamics 365 App for Outlook
