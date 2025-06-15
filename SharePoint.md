@@ -1,7 +1,13 @@
 ### 📚 Index
-1. [Pnp Modern Search](#-pnp-modern-search-)
-2. [Content Type](#-content-type-)
-3. [Useful links](#-useful-links-)
+1. [List and library](#-list-and-library-)
+2. [Pnp Modern Search](#-pnp-modern-search-)
+3. [Content Type](#-content-type-)
+4. [Useful links](#-useful-links-)
+<br><br>
+
+#### <ins> List and library </ins>
+🔗 Documentation
+- [Formula columns](https://support.microsoft.com/fr-fr/office/exemples-de-formules-courantes-dans-des-listes-d81f5f21-2b4e-45ce-b170-bf7ebf6988b3)
 <br><br>
 
 #### <ins> Pnp Modern Search </ins>
