@@ -10,7 +10,6 @@
 - Code exemple de formule powerfx (espagne)
 - Variable d'environnement
 - Agent Power App
-- Plan : permet de générer des tables, process sur la base d'une EDB
 - Power Pages
 - Cartes
 
