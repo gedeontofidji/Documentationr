@@ -13,6 +13,8 @@
 - Power Pages
 - Cartes
 - Embed PowerBI eaily in Power App
+- How to create a plugin assembly from scratch
+- GitHub
 
 
 ### Evolutions to come
