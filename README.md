@@ -7,7 +7,7 @@
 - Voir comment relier compte au plugin outlook + procédure
 - Code exemple de formule powerfx (espagne)
 - Variable d'environnement
-- Agent Power App (make filter with natural language / find records and sum up them)
+- Agent Power App (make filter with natural language / find records and sum up them, add the agent in the sitemap)
 - Cartes
 - Embed PowerBI eaily in Power App
 - How to create a plugin assembly from scratch
