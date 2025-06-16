@@ -16,3 +16,4 @@ Plan designer helps to create a plan for your existing solution or a new one usi
 - [Virtual tables and lookup columns](https://mattruma.com/adventures-with-dataverse-virtual-tables-and-look-up-columns/?utm_source=substack&utm_medium=email)  
 
 Plug-in outlook : Pour connecter une table à outlook : rajouter la table dans l'application "Dynamics 365 App for Outlook
+![image](https://github.com/user-attachments/assets/ce04c593-0c52-4abe-867e-4c4b00b6741e)
