@@ -1,7 +1,6 @@
 ### To watch/read
 - https://build.microsoft.com/en-US/sessions/BRK128?source=sessions : seen
 - https://build.microsoft.com/en-US/sessions/BRK126?source=sessions
-- https://build.microsoft.com/en-US/sessions/BRK125?source=sessions
 - https://build.microsoft.com/en-US/sessions/BRK130?source=sessions
 - https://build.microsoft.com/en-US/sessions/BRK132?source=sessions
 - https://www.microsoft.com/en-us/power-platform/blog/2025/06/09/long-term-retention/?utm_source=substack&utm_medium=email
@@ -10,11 +9,11 @@
 - Voir comment relier compte au plugin outlook + procédure
 - Code exemple de formule powerfx (espagne)
 - Variable d'environnement
-- Agent Power App
+- Agent Power App (make filter with natural language / find records and sum up them)
 - Cartes
 - Embed PowerBI eaily in Power App
 - How to create a plugin assembly from scratch
-- GitHub
+- GitHub pour Power App (versionning and edit code directly outisde of power app and commit it)
 
 
 ### Evolutions to come
