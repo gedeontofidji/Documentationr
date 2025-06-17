@@ -1,6 +1,6 @@
 title: Mon site Jekyll
 description: Mon super site créé avec Jekyll
 baseurl: ""   # Laisser vide si site sur https://tonpseudo.github.io/
-url: "https://tonpseudo.github.io"  # Mets ton URL GitHub Pages
+url: "https://gedeontofidji.github.io"  # Mets ton URL GitHub Pages
 
 theme: minima  # Thème officiel simple et pratique
