@@ -16,7 +16,8 @@ Plan designer helps to create a plan for your existing solution or a new one usi
 Link mails/appointment to records
 
 ⚙️How to install the plugin on a email user  
-In Power App, go to Advanced setting > Email configuration > Mailboxes
+In Power App, go to Advanced setting > Email configuration > Mailboxes  
+<img src="../zfiles/PowerApp_outlookConfiguration.png" alt="Xrm_FetchXmlBuilder" style="width:30%"/>
 <br><br>
 
 #### <ins> Useful links </ins>
