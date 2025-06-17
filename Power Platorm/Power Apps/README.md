@@ -4,7 +4,7 @@
 <br><br>
 
 #### <ins> Plan Designer </ins>
-📖 Description  
+📖 Description
 Plan designer helps to create a plan for your existing solution or a new one using copilot. It generates a detailed document that describes your solution. The plan covers the business problem, user requirements like user roles and stories, the data model, and technologies like apps. This feature saves time when you're trying to understand a solution's content and helps makers improve an existing solution.
 
 🔗 Documentation
@@ -16,7 +16,7 @@ Plan designer helps to create a plan for your existing solution or a new one usi
 Link mails/appointment to records
 
 ⚙️How to install the plugin on a email user  
-In Power App, go to Advanced setting > Email configuration > Mailboxes  
+In Power App, go to Advanced setting > Email configuration > Mailboxes and follow the steps  
 <img src="../zfiles/PowerApp_outlookConfiguration.png" alt="Xrm_FetchXmlBuilder" style="width:30%"/>
 <br><br>
 
