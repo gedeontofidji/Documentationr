@@ -3,7 +3,6 @@
 - https://www.microsoft.com/en-us/power-platform/blog/2025/06/09/long-term-retention/?utm_source=substack&utm_medium=email
 
 ### To do
-- Voir comment relier compte au plugin outlook + procédure
 - Code exemple de formule powerfx (espagne)
 - Variable d'environnement
 - Agent Power App (make filter with natural language / find records and sum up them, add the agent in the sitemap)
