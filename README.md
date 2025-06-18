@@ -10,6 +10,8 @@
 - Embed PowerBI eaily in Power App
 - How to create a plugin assembly from scratch
 - GitHub pour Power App (versionning and edit code directly outisde of power app and commit it)
+flix powee app sharepoint
+exporter fluw powee automate
 
 
 ### Evolutions to come
