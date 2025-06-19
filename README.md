@@ -12,6 +12,7 @@
 - GitHub pour Power App (versionning and edit code directly outisde of power app and commit it)
 flix powee app sharepoint
 exporter fluw powee automate
+dataverse stockage
 
 
 ### Evolutions to come
