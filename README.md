@@ -9,6 +9,7 @@
 - Embed PowerBI eaily in Power App
 - How to create a plugin assembly from scratch
 - GitHub pour Power App (versionning and edit code directly outisde of power app and commit it)
+- Formation powerbi
 flix powee app sharepoint
 exporter fluw powee automate
 dataverse stockage
@@ -16,22 +17,3 @@ dataverse stockage
 
 ### Evolutions to come
 - Dataverse Accelerator : permet de créer des plug-ins low-code, mais actuellement dépriorisée au profit des fonctions. Les fonctions sont en version beta pour le moment : https://learn.microsoft.com/en-us/power-apps/maker/data-platform/functions-overview.  
-
-`npm start`
-    Starts the development server.
-
-  `npm run build`
-    Bundles your website into static files for production.
-
-  `npm run serve`
-    Serves the built website locally.
-
-  `npm run deploy`
-    Publishes the website to GitHub pages.
-
-We recommend that you begin by typing:
-
-  `cd documentation`
-  `npm start`
-
-Happy building awesome websites!
