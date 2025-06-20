@@ -3,7 +3,6 @@
 
 ### To do
 - Code exemple de formule powerfx (espagne)
-- Variable d'environnement
 - Agent Power App (make filter with natural language / find records and sum up them, add the agent in the sitemap)
 - Cartes
 - Embed PowerBI eaily in Power App
