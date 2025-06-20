@@ -11,7 +11,9 @@
 - Formation powerbi
 - flux powee app sharepoint
 - exporter fluw powee automate
-- dataverse stockage
+
+OK  :
+- dataverse stockage : https://learn.microsoft.com/en-us/power-platform/admin/powerapps-flow-licensing-faq
 
 
 ### Evolutions to come
